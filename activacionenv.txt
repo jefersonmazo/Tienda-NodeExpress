@@ -1,0 +1,5 @@
+# python -m virtualenv env ------------------ Para este proyecto, se creo un entorno virtual en python, para luego ejecutar un entorno virtual de nodejs
+# .\env\Scripts\activate -------------------- De esta manera activamos el entorno virual en el command Prompt
+deactivate --------- Desactivar el entorno virtual. de sebe ejecutar dentro del entorno.
+
+
