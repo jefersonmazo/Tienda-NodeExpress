@@ -2,4 +2,5 @@
 # .\env\Scripts\activate -------------------- De esta manera activamos el entorno virual en el command Prompt
 deactivate --------- Desactivar el entorno virtual. de sebe ejecutar dentro del entorno.
 
-
+npm run dev -------------- Correr el archivo index.js en el entorno de desarrollo
+npm run start ------------ Correr el archivo index.js en el entorno de produccion
